@@ -8,6 +8,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_text">Welcome</string>
 
     <!-- ============= Movie ===================-->
     <string name="action_movie_add_favourite">Add to Favourites</string>
